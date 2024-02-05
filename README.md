@@ -31,9 +31,10 @@
  
 
 
+<p align="center">
+   You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
+</p>
 
-
-- You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
 
 
 
