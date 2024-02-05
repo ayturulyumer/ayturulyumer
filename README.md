@@ -2,13 +2,15 @@
   <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
 
-  
+<h1 align="center">
    Hello there 👋.
-  - I’m Ayturul, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. 
+</h1>
 
-<p align="center">
- <p> ## 📚 Currently Studying </p>
-</p>
+ ##  I’m Ayturul, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. 
+
+<h1 align="center">
+## 📚 Currently Studying 
+</h1>
 I'm currently enrolled at SoftUni, where I'm diving deeper into the world of web development. The coursework is expanding my understanding of coding principles and refining my skills.
 
 <p align="center">
