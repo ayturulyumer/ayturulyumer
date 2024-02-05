@@ -13,7 +13,7 @@
  📚 Currently Studying 
 </h3>
  
-# #I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.
+<p>I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.</p>
 
 <p align="center">
    <p> ## Skill Stack </p>
