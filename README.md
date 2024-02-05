@@ -12,7 +12,8 @@
 <h2 align="center">
  📚 Currently Studying 
 </h2>
-# I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.
+ 
+# #I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.
 
 <p align="center">
    <p> ## Skill Stack </p>
