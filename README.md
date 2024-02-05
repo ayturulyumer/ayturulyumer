@@ -1,7 +1,7 @@
 
   
   - Hello there 👋.
-  ![gif]([https://github.com/ajummer/https://media.tenor.com/CSBGY4MuCPsAAAAC/panda-hi.gif]) 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
   - I’m Ayturul, but you can call me Ayti.
 
 -  I’m an aspiring Front-End Web Developer.
