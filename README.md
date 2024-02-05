@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly"/></a>
 </p>
       
    <h2 align="center">About me: </h2>
