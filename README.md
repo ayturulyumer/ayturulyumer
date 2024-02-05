@@ -1,6 +1,9 @@
+
+<p align="center">
   ![Alt Text](https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif) 
+</p>
   
-  - Hello there 👋.
+   Hello there 👋.
   - I’m Ayturul, but you can call me Ayti.
 
 -  I’m an aspiring Front-End Web Developer.
