@@ -29,11 +29,12 @@
  ![image](https://github.com/ajummer/ajummer/assets/142006703/391ed12d-eda9-4d14-831b-18cc4d533045) ![image](https://github.com/ajummer/ajummer/assets/142006703/9a7fd7f3-8e67-417c-8002-43ac8a8f2c05) ![image](https://github.com/ajummer/ajummer/assets/142006703/4b2570b7-4950-4d8f-acd9-73266dc08993) ![image](https://github.com/ajummer/ajummer/assets/142006703/c95b4c41-6dcb-438f-a213-b07632405322) 
 
  
+<h1 align="center">
+   Contact me
+</h1>
 
+ #  You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
 
-<p align="center">
-   You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
-</p>
 
 
 
