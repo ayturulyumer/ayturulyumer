@@ -7,7 +7,9 @@
   <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)</p>
+<p align="center">
+   [![GitHub Streak](https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+</p>
       
    <h2 align="center">About me: </h2>
    <h4>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h4>
