@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img width="200" src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif)" alt="hi">
+  <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
+
   
    Hello there 👋.
   - I’m Ayturul, but you can call me Ayti.
