@@ -12,7 +12,7 @@
 </p>
       
    <h1 align="center">About me: </h1>
-   <h4>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h4>
+   <h2>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h2>
 
 <h1 align="center">
   Currently Studying 
@@ -33,7 +33,7 @@
    Contact me
 </h1>
 
- #  You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
+  You can ![image](https://github.com/ajummer/ajummer/assets/142006703/4a70d94f-a2b9-415b-92ab-ea706c13c422) me via  gmail: ayturulyumer@gmail.com 
 
 
 
