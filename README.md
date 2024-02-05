@@ -11,18 +11,18 @@
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly"/></a>
 </p>
       
-   <h2 align="center">About me: </h2>
+   <h1 align="center">About me: </h1>
    <h4>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h4>
 
-<h3 align="center">
+<h1 align="center">
   Currently Studying 
-</h3>
+</h1>
  
 <p>I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.</p>
 
-<h3 align="center">
+<h1 align="center">
     Skill Stack 
-</h3>
+</h1>
 
 
    ![image](https://github.com/ajummer/ajummer/assets/142006703/f55495dc-dc8c-42a6-94f8-fecd28c73ce7)
