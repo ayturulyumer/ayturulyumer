@@ -12,7 +12,7 @@
 </p>
       
    <h1 align="center">About me: </h1>
-   <h2>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h2>
+   <h3>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h3>
 
 <h1 align="center">
   Currently Studying 
