@@ -7,11 +7,11 @@
   <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
 
-   I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. 
+   <h4>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for that. </h4>
 
-<h4 align="center">
+<h3 align="center">
  📚 Currently Studying 
-</h4>
+</h3>
  
 # #I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.
 
