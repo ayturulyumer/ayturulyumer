@@ -7,11 +7,6 @@
   <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 
 <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly"/></a>
