@@ -2,7 +2,7 @@
 <h1 align="center">
    Hello there 👋
 </h1>
-
+ 
 <p align="center">
   <img src="https://media3.giphy.com/media/DwXOS8RqHocEM/giphy.gif" alt="animated" />
 </p>
