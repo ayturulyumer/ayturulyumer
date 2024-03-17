@@ -9,7 +9,7 @@
 
 
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ajummer&theme=javascript-dark&hide_border=true&mode=weekly"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayturulyumer&theme=javascript-dark&hide_border=true&mode=weekly"/></a>
 </p>
       
    <h1 align="center">About me: </h1>
