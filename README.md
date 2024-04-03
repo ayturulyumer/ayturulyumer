@@ -19,9 +19,9 @@
   Currently Focused on:
 </h1>
  
-<p>I'm currently taking a course for  <a href="https://skillicons.dev">
+ <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts" />
-  </a>  at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development. </p>
+  </a>
 
 <h1 align="center">
     Skill Stack 
