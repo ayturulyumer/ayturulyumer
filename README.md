@@ -16,17 +16,19 @@
    <h3>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for it. </h3>
 
 <h1 align="center">
-  Currently Studying 
+  Currently Focused on:
 </h1>
  
-<p>I'm currently at the end of the JS Web Developer curriculum at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development.</p>
+<p>I'm currently taking a course for  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a> at SoftUni. The comprehensive coursework has equipped me with a solid foundation in web development. </p>
 
 <h1 align="center">
     Skill Stack 
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,html,css,vscode,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,html,css,tailwind,vscode,github,postman,materialui" />
   </a>
 </p>
 
