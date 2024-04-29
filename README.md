@@ -15,20 +15,13 @@
    <h1 align="center">About me: </h1>
    <h3>I’m Ayturul Yumer, but you can call me Ayti. I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for it. </h3>
 
-<h1 align="center">
-  Currently Focused on:
-</h1>
- 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
 
 <h1 align="center">
     Skill Stack 
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,vercel,html,css,tailwind,materialui,vscode,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,mongodb,express,nodejs,vercel,html,css,tailwind,materialui,vscode,github,postman" />
   </a>
 </p>
 
