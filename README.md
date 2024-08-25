@@ -13,7 +13,7 @@
 </p>
       
    <h1 align="center">About me: </h1>
-   <h3>I’m Ayturul Yumer, but you can call me Ayti - no, it’s not a nod to my coding skills -.-, it’s just what I’ve been called since childhood.  Who knew it would end up being so fitting?
+   <h3>I’m Ayturul Yumer, but you can call me Ayti - nope, it’s not a tribute to my coding skills :(.  Who knew it would end up being so fitting?
 
    I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for it. </h3>
 
