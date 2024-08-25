@@ -13,12 +13,12 @@
 </p>
       
    <h1 align="center">About me: </h1>
-   <h3>I’m Ayturul Yumer, but you can call me Ayti - nope, it’s not a tribute to my coding skills,just a nickname that’s been with me since childhood.</h3> 
+   <h2>I’m Ayturul Yumer, but you can call me Ayti - nope, it’s not a tribute to my coding skills,just a nickname that’s been with me since childhood.</h2> 
    
-   <h2>Who knew it would end up being so fitting?<h2>
+   <h3>Who knew it would end up being so fitting?<h3>
 
-   <p>I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for it.
-   What excites me most is  creating solutions that make life easier for myself and others. I love turning ideas into practical tools that solve real-life problems<p>
+   <h4>I’m an aspiring  Web Developer. I find pure joy in crafting something out of thin air, and programming is my perfect medium for it.
+   What excites me most is  creating solutions that make life easier for myself and others. I love turning ideas into practical tools that solve real-life problems<h4>
 
 
 <h1 align="center">
