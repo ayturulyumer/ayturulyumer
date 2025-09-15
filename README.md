@@ -33,7 +33,7 @@ A **unified inbox** for solopreneurs, creators, and small stores selling via DMs
 
 ![AquaHabits Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/aquahabits.png?raw=true) 
 
-[Live Site](habitect-9qgr.vercel.app//) | [Repo](https://github.com/ayturulyumer/Aquahabits)  
+[Live Site](habitect-9qgr.vercel.app/) | [Repo](https://github.com/ayturulyumer/Aquahabits)  
 A playful habit-tracking app with an **aquarium twist**. Each habit completed keeps your virtual tank alive and full of colorful creatures.  
 Built with **Next.js, TailwindCSS, and Framer Motion**.
 
