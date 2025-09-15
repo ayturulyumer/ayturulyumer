@@ -13,7 +13,8 @@
 #  About Me:
 I’m Ayti - nope, it’s not a tribute to my coding skills, just a nickname that’s been with me since childhood. Who knew it would end up being so fitting?
 I love building things that make people’s lives easier — whether it’s automating boring tasks or creating tools that simplify the everyday.  
-I’m especially drawn to SaaS — some of my projects are startup attempts where I test ideas, learn fast, and see what sticks.  
+
+Some of my projects are startup attempts where I test ideas, learn fast, and see what sticks.  
 
 **Here are some of the projects I’ve built recently:**
 
@@ -22,34 +23,36 @@ I’m especially drawn to SaaS — some of my projects are startup attempts wher
 
 ##  Inboxlyone(Startup Attempt)
 
-![Inboxlyone Screenshot]((https://github.com/ayturulyumer/ayturulyumer/blob/main/inboxly.jpg?raw=true)) 
-[Live Site](https://inboxly.one/) | [Repo](https://github.com/ayturulyumer/inboxlyone)  
+![Inboxlyone Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/inboxly.jpg?raw=true)  
+[Live Site](https://inboxly.one/) | [Repo](https://github.com/Advance-Digital-Edge/InboxlyOne)  
 A **unified inbox** for solopreneurs, creators, and small stores selling via DMs. Instead of wasting time app-hopping between Gmail, Instagram, and Facebook, Inboxlyone keeps every client message in one place - so you never miss a lead or reply late.  
 
 --- 
 
 ##  AquaHabits(Startup Attempt)
 
-![AquaHabits Screenshot]([https://link-to-your-aquahabits-screenshot.png](https://github.com/ayturulyumer/ayturulyumer/blob/main/aquahabits.png?raw=true))  
-[Live Site](habitect-9qgr.vercel.app//) | [Repo](https://github.com/ayturulyumer/aquahabits)  
+![AquaHabits Screenshot]((https://github.com/ayturulyumer/ayturulyumer/blob/main/aquahabits.png?raw=true) 
+
+[Live Site](habitect-9qgr.vercel.app//) | [Repo](https://github.com/ayturulyumer/Aquahabits)  
 A playful habit-tracking app with an **aquarium twist**. Each habit completed keeps your virtual tank alive and full of colorful creatures.  
 Built with **Next.js, TailwindCSS, and Framer Motion**.
 
 ---
 
 ##  ReadSpace
-![ReadSpace Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/readspace.jpg?raw=true))  
-[Live Site](https://read-space-alpha.vercel.app/) | [Repo](https://github.com/ayturulyumer/read-space)  
+![ReadSpace Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/readspace.jpg?raw=true) 
+
+[Live Site](https://read-space-alpha.vercel.app/) | [Repo](https://github.com/ayturulyumer/ReadSpace)  
 An online bookstore app built with **Next.js, Supabase, and TailwindCSS**.  
 Features include a dynamic catalog, author filtering, cart system, and Stripe integration .
 
 ---
 
 ##  Gym Membership Tracker
-![ReadSpace Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/gymtracker.png?raw=true))  
-[Live Site](gym-membership-app-pk1n.vercel.app//) | [Repo](https://github.com/ayturulyumer/gym-tracker)  
-A web app created for my local gym to replace paper notebooks with a **digital client tracker**.  
-Staff can manage memberships, check-ins.
+![Gym Membership Tracker Screenshot](https://github.com/ayturulyumer/ayturulyumer/blob/main/gymtracker.png?raw=true)
+
+[Live Site](gym-membership-app-pk1n.vercel.app//) | [Repo](https://github.com/ayturulyumer/Gym-Membership-App)  
+A **practical solution** I developed for a local gym, replacing their manual systems. It enables staff to easily manage memberships, track workout sessions, and handle subscriptions — all through an intuitive interface that simplifies day-to-day operations.  
 
 ---
 
